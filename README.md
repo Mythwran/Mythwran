@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mythwran
-- 👀 I’m interested in Cyber Security, Python and Medical Science
-- 🌱 I’m currently learning Cyber Security and Python
-- 💞️ I’m looking to collaborate on Cyber Security
+- 👀 I’m interested in Financial Algoritmic Trades and Medical Science
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on AlgoTrades
 - 📫 How to reach me https://github.com/Mythwran
 
 <!---
